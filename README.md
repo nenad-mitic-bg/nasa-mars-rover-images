@@ -8,5 +8,7 @@ not be downloaded again.
 
 You're free to use any library you like, but do not use a full framework.
 
+Keep in mind that the code should be unit testable.
+
 Documentation can be seen here: https://api.nasa.gov, under "Mars Rover Photos".
 You can generate an API key on the same page, under "Generate API Key".
