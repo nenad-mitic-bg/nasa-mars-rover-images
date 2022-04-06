@@ -1,6 +1,8 @@
 {
-    "name": "nenad.mitic/nasa-mars-rover-images",
+    "name": "code.challenge/nasa-mars-rover-images",
     "type": "project",
+    "license": "proprietary",
+    "description": "",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
